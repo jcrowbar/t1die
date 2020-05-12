@@ -6,11 +6,11 @@ fields:
   name: layout
   label: layout
 - type: text
+  name: categories
+  label: categories
+- type: text
   name: title
   label: title
 - type: datetime
   name: date
   label: date
-- type: text
-  name: categories
-  label: categories
