@@ -1,11 +1,10 @@
 ---
 title: T1D.ie
-email: jcrowbar @ gmail
+email: john dot kelly @ hey dot com
 description: Welcome to my site
 baseurl: ''
 url: ''
 twitter_username: k4ie
-github_username: jcrowbar
 theme: minima
 plugins:
 - jekyll-feed
